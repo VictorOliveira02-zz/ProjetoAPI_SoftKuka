@@ -29,6 +29,6 @@ O objetivo do projeto foi de realizar um teste em NodeJS pelos seguintes requisi
 
 ## 🎁 Expressões de gratidão
 
-* Agradeço a [SoftKuka](http://www.softkuka.com.br/), pelo participação no processo seletivo 02/2021. 
+* Agradeço a [SoftKuka](http://www.softkuka.com.br/), pela participação no processo seletivo 02/2021. 
 ---
 
